@@ -104,7 +104,6 @@ class EasyAnime_Prop
     return @frames[0] if @rate <= 0.0
     
     frame = @frames[@count]
-    
     @count = (@count + 1) % @period
     
     return frame
