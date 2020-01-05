@@ -1,6 +1,10 @@
 # RPG_VX_Ace
+[EN]  
 RGSS3 scripts for RPG Maker VX Ace  
 Please leave a comment if you need English desriptions.
+[JP]  
+RPGツクールVX AceのRGSS3スクリプト置き場です。
+何か使い方で分からないことがあれば、Issuesにコメント下さいませ。
 
 # EasyAnime.rb
 文章の表示中に簡単なループアニメーションを行います。  
